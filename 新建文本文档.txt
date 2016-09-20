@@ -4,6 +4,3 @@ sdf
 adsfa
 s
 fas
-asdf
-as
-fas
